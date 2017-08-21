@@ -34,3 +34,22 @@
   min-height: 150px;
   max-height: 150px;
 }
+
+.col-md-12 img {
+  height: 50px;
+  width: 50px;
+  margin-left: 5px;
+}
+
+.col-md-12 img:hover {
+  height: 50px;
+  width: 50px;
+  border: 1px solid #fff;
+}
+
+.f:hover {box-shadow: 0px 0px 5px 5px #3b5998;}
+.t:hover {box-shadow: 0px 0px 5px 5px #4099ff;}
+.g:hover {box-shadow: 0px 0px 5px 5px #d34836;}
+.l:hover {box-shadow: 0px 0px 5px 5px #0077b5;}
+.gh:hover {box-shadow: 0px 0px 5px 5px #000000;}
+.p:hover {box-shadow: 0px 0px 5px 5px #1e477a;}
